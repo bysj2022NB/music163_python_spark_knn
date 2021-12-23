@@ -3,7 +3,7 @@
 ## 要求
 ### 源码有偿！一套(论文 PPT 源码+sql脚本)
 
-https://www.bilibili.com/video/BV1F3411b7qK?spm_id_from=333.999.0.0
+https://www.bilibili.com/video/BV1234y1676e?spm_id_from=333.999.0.0
 
 ### 
 ### 加好友前帮忙start一下，并备注github有偿获取源码
@@ -191,7 +191,7 @@ Python爬虫
 
 # 运行视频(B站)
 
-https://www.bilibili.com/video/BV1F3411b7qK?spm_id_from=333.999.0.0
+https://www.bilibili.com/video/BV1234y1676e?spm_id_from=333.999.0.0
 
 https://www.bilibili.com/video/BV1GT4y1R75n?spm_id_from=333.999.0.0
 
